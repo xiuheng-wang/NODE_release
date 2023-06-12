@@ -48,4 +48,4 @@ if __name__ == '__main__':
 	pool.close()
 	pool.join()
 	# save data
-	np.save("./data/nde.npy", STAT)
+	np.save("./data/node.npy", STAT)

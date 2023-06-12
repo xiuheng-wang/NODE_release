@@ -7,7 +7,7 @@ swl = 64
 tr = 400 - 2 * swl
 
 # load data
-nde = np.load("./data/nde.npy").transpose()
+nde = np.load("./data/node.npy").transpose()
 with h5py.File("./baselines/data/nougat.h5", "r") as f:
     data = f.get('nougat')
     nougat  = np.array(data).transpose()
