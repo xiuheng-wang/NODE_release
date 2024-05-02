@@ -10,7 +10,7 @@ Steps:
 
 For any questions, feel free to email us at xiuheng.wang@oca.eu or raborsoi@gmail.com.
 
-If this code is helpful for you, please cite our paper as follows:
+If these codes are helpful for you, please cite our paper as follows:
 
 	@inproceedings{wang2023change,
 	  title={Change Point Detection with Neural Online Density-Ratio Estimator},
@@ -20,3 +20,5 @@ If this code is helpful for you, please cite our paper as follows:
 	  year={2023},
 	  organization={IEEE}
 	}
+
+Note interested users can also find a fast version <a href="https://github.com/xiuheng-wang/CPD_manifold_release/blob/main/utils/node.py"> here </a>.
