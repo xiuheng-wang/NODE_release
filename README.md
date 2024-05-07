@@ -1,5 +1,7 @@
 # Change Point Detection with Neural Online Density-Ratio Estimator
 
+In this repository you can find the codes to reproduce the results of the ICASSP paper <a href="https://xiuheng-wang.github.io/assets/pdf/wang2023change.pdf">Change Point Detection with Neural Online Density-Ratio Estimator</a>.
+
 Steps:
 
 1. Run main.py and draw.py to plot Fig.1 and Fig.3;
@@ -21,4 +23,4 @@ If these codes are helpful for you, please cite our paper as follows:
 	  organization={IEEE}
 	}
 
-Note interested users can also find a fast version <a href="https://github.com/xiuheng-wang/CPD_manifold_release/blob/main/utils/node.py"> here </a>.
+Note interested users can also find a fast version <a href="https://github.com/xiuheng-wang/CPD_manifold_release/blob/main/utils/node.py">here</a>.
